@@ -1,0 +1,31 @@
+body {
+	font-size: 2em;
+	background:#0B3641;
+}
+
+.company-reg-area{
+	 box-shadow: 5px 10px 10px #E4E2A3;
+}
+
+.company-login-area{
+	 box-shadow: 5px 10px 10px #E8BC98;
+}
+
+#loginFailMsg{
+	color:red;
+	display:none;
+}
+
+#regMsg{
+	color:red;
+	display:none;
+}
+
+.errMsg{
+	color:red;
+	display:none;
+}
+
+#company_logo{
+	width:200px;
+}
